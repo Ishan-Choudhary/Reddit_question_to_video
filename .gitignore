@@ -1,0 +1,5 @@
+#IGNORE ALL INI FILES
+*.ini
+
+#IGNORE PYCACHE FOLDER
+__pycache__/
