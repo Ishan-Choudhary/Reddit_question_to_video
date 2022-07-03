@@ -4,8 +4,7 @@
 #IGNORE PYCACHE FOLDER
 __pycache__/
 
-*.txt
+question.txt
 *.mp3
 *.mp4
-
-.gitignore
+*.jpg
