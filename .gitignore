@@ -3,3 +3,9 @@
 
 #IGNORE PYCACHE FOLDER
 __pycache__/
+
+*.txt
+*.mp3
+*.mp4
+
+.gitignore
