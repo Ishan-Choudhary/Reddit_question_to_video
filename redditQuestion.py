@@ -7,11 +7,11 @@ config.read('config.ini')
 
 #CREATING REDDIT INSTANCE
 reddit = praw.Reddit(
-    client_id=config["quoteBot"]["client_id"],
-    client_secret=config["quoteBot"]["client_secret"],
-    password=config["quoteBot"]["password"],
-    user_agent=config["quoteBot"]["user_agent"],
-    username=config["quoteBot"]["username"],
+    client_id=config["questionBot"]["client_id"],
+    client_secret=config["questionBot"]["client_secret"],
+    password=config["questionBot"]["password"],
+    user_agent=config["questionBot"]["user_agent"],
+    username=config["questionBot"]["username"],
 )
 
 def get_latest_question() -> dict:  
