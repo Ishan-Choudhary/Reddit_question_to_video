@@ -1,4 +1,5 @@
 # REDDIT QUESTION TO VIDEO SCRIPT
+## A script that will grab a random question from the AskReddit subreddit and convert it into a video
 
 ## __Requirements__
 ### You must have a reddit app setup on your account. Follow [this tutorial by sentdex](https://youtu.be/NRgfgtzIhBQ) for the same
